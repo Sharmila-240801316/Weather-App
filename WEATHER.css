@@ -5,9 +5,7 @@
     box-sizing: border-box;
     
 }
-body{
-    background: gray;
-}
+
 .card{
     width:90%;
     max-width:470px;
@@ -99,3 +97,4 @@ font-size:28px;
     padding-top:2px;
     display:none;
 }
+
